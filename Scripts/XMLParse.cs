@@ -12,7 +12,7 @@ public class XMLParse : MonoBehaviour {
 	void Start () {
 	
 	}
-	
+	/*成功源于不懈的努力，加油*/
 	// Update is called once per frame
 	void Update () {
 	
